@@ -1,0 +1,1 @@
+write in consol: npx vite
